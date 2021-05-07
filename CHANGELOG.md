@@ -1,6 +1,36 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+[2021-04-21] Version 6.7.0
+--------------------------
+**Library - Docs**
+- [PR #986](https://github.com/sendgrid/sendgrid-python/pull/986): Update to_emails type. Thanks to [@PyGeek03](https://github.com/PyGeek03)!
+
+**Library - Feature**
+- [PR #983](https://github.com/sendgrid/sendgrid-python/pull/983): add v3 bypass filters. Thanks to [@anarayanan604](https://github.com/anarayanan604)!
+
+
+[2021-02-10] Version 6.6.0
+--------------------------
+**Library - Docs**
+- [PR #964](https://github.com/sendgrid/sendgrid-python/pull/964): Use correct pip installation command. Thanks to [@Akasurde](https://github.com/Akasurde)!
+
+**Library - Fix**
+- [PR #971](https://github.com/sendgrid/sendgrid-python/pull/971): replace names in BatchId docstrings. Thanks to [@bennylope](https://github.com/bennylope)!
+
+**Library - Feature**
+- [PR #924](https://github.com/sendgrid/sendgrid-python/pull/924): remove duplicate emails ignoring case in Personalization. Thanks to [@DougCal](https://github.com/DougCal)!
+
+
+[2021-01-13] Version 6.5.0
+--------------------------
+**Library - Feature**
+- [PR #945](https://github.com/sendgrid/sendgrid-python/pull/945): Support for AMP HTML Email. Thanks to [@modernwarfareuplink](https://github.com/modernwarfareuplink)!
+
+**Library - Docs**
+- [PR #962](https://github.com/sendgrid/sendgrid-python/pull/962): Sending HTML email example is broken. Thanks to [@mikeckennedy](https://github.com/mikeckennedy)!
+
+
 [2020-12-02] Version 6.4.8
 --------------------------
 **Library - Docs**
